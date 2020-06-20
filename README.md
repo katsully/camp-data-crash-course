@@ -37,12 +37,23 @@ python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
 
+If you have two versions of python installed you *may* need to do
+
+````pip3 install juypter````
+
 We also need to install two Python modules, pandas and matplotlib. To do this we'll type (in the terminal)
 
 ```
 pip install pandas
 pip install matplotlib
 ```
+
+Again, if you have two versions of python installed you *may* need to do 
+
+````
+pip3 install pandas
+pip3 install matplotlib
+````
 
 Finally we'll run `jupyter notebook`. Be sure to run this command from the folder where you downloaded the repo!
 
