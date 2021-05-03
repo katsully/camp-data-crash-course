@@ -7,7 +7,7 @@ Data Science is a mixed of
 - Subject Expertise
 - Detective Skills!
 
-This repo only contains one example but many, many more can be found [here](https://github.com/joelgrus/data-science-from-scratch). This is from Joel Grus's amazing Book, Data Science from Scratch.
+This repo only contains a few examples but many, many more can be found [here](https://github.com/joelgrus/data-science-from-scratch). This is from Joel Grus's amazing Book, Data Science from Scratch.
 
 [![Capture](https://github.com/katsully/data-crash-course/raw/master/Capture.PNG?raw=true)](https://github.com/katsully/data-crash-course/blob/master/Capture.PNG?raw=true)
 
